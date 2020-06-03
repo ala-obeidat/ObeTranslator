@@ -1,0 +1,13 @@
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\bin\Debug\ObeTranslator.exe.config
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\bin\Debug\ObeTranslator.exe
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\bin\Debug\ObeTranslator.pdb
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\obj\Debug\ObeTranslator.Form1.resources
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\obj\Debug\ObeTranslator.Properties.Resources.resources
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\obj\Debug\ObeTranslator.csproj.GenerateResource.cache
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\obj\Debug\ObeTranslator.exe
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\obj\Debug\ObeTranslator.pdb
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\obj\Debug\ObeTranslator.csproj.CopyComplete
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\obj\Debug\ObeTranslator.csprojAssemblyReference.cache
+C:\Users\aseel\source\repos\ObeTranslator\ObeTranslator\obj\Debug\ObeTranslator.csproj.CoreCompileInputs.cache
